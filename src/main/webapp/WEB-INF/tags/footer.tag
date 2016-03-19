@@ -1,0 +1,1 @@
+<span id="footer">guide2 by <a href="http://www.highwise.com">Highwise</a></span>
